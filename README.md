@@ -12,7 +12,7 @@ I built this project to explore high-performance concurrency models and hardware
 
 ## Performance
 
-A simple benchmarking script is included in `main.cpp`. On a standard consumer CPU, the queue sustains a transfer rate of **>25 million messages per second** between two threads.
+A simple benchmarking script is included in `main.cpp`. On a standard consumer CPU, the queue sustains a transfer rate of **>10 million messages per second** between two threads.
 
 ## Building and Running
 
